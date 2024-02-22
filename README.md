@@ -4,8 +4,8 @@ I'm a seasoned Flutter developer with over 3 years of professional experience. D
 
 ## 🚀 Skills
 
-- **Languages:** Dart, Java, Kotlin, Swift, PHP, C#, C++, Python
-- **Frameworks:** Flutter, Laravel, JavaScript
+- **Languages:** Dart, Java, Kotlin, Swift, PHP, C#, C++, Python, JavaScript
+- **Frameworks:** Flutter, Laravel
 - **Tools & Technologies:** Firebase, REST APIs, Git, Android Studio, Xcode, jQuery
 
 ## 📫 Contact
